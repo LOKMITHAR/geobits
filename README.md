@@ -5,4 +5,4 @@ GeoBITs is an online map covering all the places and classes in [Bannari Amman I
 
 ### Creators:
 - [Sriram V](https://github.com/ruby-ist)
-- Lokmithar S D
+- [Lokmithar S D](https://github.com/lokmithar)
